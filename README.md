@@ -1,4 +1,4 @@
-# PlayStation Store
+# 🎮 PlayStation Store
 
 Uma página web responsiva com animações, inspirada na PlayStation Store. Este projeto foi desenvolvido como prática de design responsivo, interações animadas e boas práticas em HTML, CSS e JavaScript.
 
